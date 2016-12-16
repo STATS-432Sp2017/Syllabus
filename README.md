@@ -168,6 +168,40 @@ Note that some of the problems that are assigned are similar or identical to tho
 by me or other instructors for this or other courses. Using proofs or code from anywhere other than the textbooks (with attribution), this year's course notes (with attribution), or the course website is not only considered cheating
 (as described above), it is easily detectable cheating. Such behavior is strictly forbidden.
 
+# Schedule
 
+| Week # | Day of Week | Date | Topic | Action(s) |
+|:------:|------------:|:----:|:------|:----------|
+1	|	T	|	10 Jan	| Intro, syllabus, github | HW 1 assigned
+	|	R	|	12 Jan	| Github, wercker, review | Ch. 1
+2	|	T	|	17 Jan	| Rmd, coding, review | Ch. 2
+	|	R	|	19 Jan	| Rmd, coding, review | HW 1 due, HW 2 assigned
+3	|	T	|	24 Jan	| Coding | Programming Appendix
+	|	R	|	26 Jan	|
+4	|	T	|	31 Jan	| Model selection | Ch. 3
+	|	R	|	2 Feb	| | HW 2 due, HW 3 assigned
+5	|	T	|	7 Feb	| Smoothing | Ch. 4
+	|	R	|	9 Feb	|
+6	|	T	|	14 Feb	| Simulation and Bootstrap | Ch. 5, 6 (and App. O)
+	|	R	|	16 Feb	| | HW 3 due, HW 4 assigned
+7	|	T	|	21 Feb	| Heteroskedasticity | Ch. 7
+	|	R	|	23 Feb	| 
+8	|	T	|	28 Feb	| Splines | Ch. 8
+	|	R	|	2 Mar	| | HW 4 due, Midterm report due, Midterm out
+9	|	T	|	7 Mar	| Additive models | Ch. 9
+	|	R	|	9 Mar	| | Midterm due, HW 5 out
+	|	Spring break	|		|
+10	|	T	|	21 Mar	|Specification testing | Ch. 10
+	|	R	|	23 Mar	|
+11	|	T	|	28 Mar	| Logistic Regression | Ch. 11
+	|	R	|	30 Mar	| | HW 5 due, HW 6 out
+12	|	T	|	4 Apr	| GLMs and GAMs | Ch. 12
+	|	R	|	6 Apr	|
+13	|	T	|	11 Apr	| Trees | Ch. 13
+	|	R	|	13 Apr	| | HW 6 due
+14	|	T	|	18 Apr	| Extra topics
+	|	R	|	20 Mar	| | Project due, Final out
+15	|	T	|	25 Apr	| Project presentations
+	|	R	|	27 Apr	| | Final due
 
 
