@@ -36,8 +36,8 @@ be dealing with and describing data rather than on particular methods
 per se.
 
 The course combines analysis with methodology and
-computational aspects. It treats both the ``art'' of understanding
-unfamiliar data and the ``science'' of analyzing that data in terms of 
+computational aspects. It treats both the "art" of understanding
+unfamiliar data and the "science" of analyzing that data in terms of 
 statistical properties. The focus will be on practical aspects of methodology and intuition
 to help students develop tools for selecting appropriate methods and
 approaches to problems in their own lives. 
