@@ -102,13 +102,13 @@ Homework assignments will be completed in groups which I assign. These groups wi
 Each team will have their own private repository. All assignments will be submitted on Github. Homework grades
 will be awarded based on complete and accurate analyses according to the rubric provided with each assignment.
 Grades will be adjusted up or down based on participation according to the Github commit messages. You are
-expected to consult only with your me, the TA, or your assigned group, with the exception of conversations which occur
+expected to consult only with me, the TA, or your assigned group, with the exception of conversations which occur
 during class meetings or office hours in the presence of me or the TA. This means that you and your friend (who is in a different group) may not do the homework together.
 
 
 ## Project
 
-You will be required to complete a team project (2-3 people). You may
+You will be required to complete a team project (2-4 people). You may
 choose this group. The goal
 is to analyze a dataset in depth using everything that you have learned.
 
@@ -164,8 +164,11 @@ grade in the course, among other possibilities.
 
 ## Solutions
 
-Note that some of the problems that are assigned are similar or identical to those assigned in previous years
-by me or other instructors for this or other courses. Using proofs or code from anywhere other than the textbooks (with attribution), this year's course notes (with attribution), or the course website is not only considered cheating
+Some of the problems that are assigned are similar or identical to those assigned in previous years
+by me or other instructors for this or other courses. Using proofs or
+code from anywhere other than the textbooks (with attribution), this
+year's course notes (with attribution), or the course website is not
+only considered cheating 
 (as described above), it is easily detectable cheating. Such behavior is strictly forbidden.
 
 # Schedule
