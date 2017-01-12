@@ -9,8 +9,8 @@ Slack: @dajmcdon
 Email: dajmcdon@indiana.edu  
 
 __Office hours__:  
-Me: TBA  
-Gunchang: TBA
+Me: 2:30-4pm, Tuesday  
+Gunchang: 11-12 noon, Wednesday
 
 __Course webpage__:    
 WWW: https://github.com/STATS-432Sp2017  
