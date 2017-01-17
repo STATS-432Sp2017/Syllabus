@@ -9,7 +9,7 @@ Slack: @dajmcdon
 Email: dajmcdon@indiana.edu  
 
 __Office hours__:  
-Me: 2:30-4pm, Tuesday  
+Me: 1-3pm, Wednesday
 Gunchang: 11-12 noon, Wednesday
 
 __Course webpage__:    
