@@ -10,7 +10,7 @@ Email: dajmcdon@indiana.edu
 
 __Office hours__:  
 Me: 1-3pm, Wednesday  
-Gunchang: 11-12 noon, Wednesday
+Gunchang: 1-2pm, Monday
 
 __Course webpage__:    
 WWW: https://github.com/STATS-432Sp2017  
