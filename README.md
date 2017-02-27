@@ -9,8 +9,8 @@ Slack: @dajmcdon
 Email: dajmcdon@indiana.edu  
 
 __Office hours__:  
-Me: TBA  
-Gunchang: TBA
+Me: 1-3pm, Wednesday  
+Gunchang: 1-2pm, Monday
 
 __Course webpage__:    
 WWW: https://github.com/STATS-432Sp2017  
@@ -174,7 +174,7 @@ only considered cheating
 # Schedule
 
 | Week # | Day of Week | Date | Topic | Action(s) |
-|:------:|------------:|:----:|:------|:----------|
+|:----------:|-------------------:|:----:|:-------------|:----------|
  1	 |	T  |	10 Jan	| Intro, syllabus, github | Read (Happy Git with R)[http://www.happygitwithr.com/]
 	 |	R	|	12 Jan	| Github, wercker,          | HW1 out
  2	 |	T	|	17 Jan	| Rmd, coding, review    | Programming appendix
