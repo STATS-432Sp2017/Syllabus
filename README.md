@@ -191,19 +191,19 @@ only considered cheating
 	|	R	|	23 Feb	|                                    | HW 3 due, HW 4 out
 8	|	T	|	28 Feb	| Heteroskedasticity      | Ch. 7
 	|	R	|	2 Mar	|                                    | Midterm report due, Midterm out
-9	|	T	|	7 Mar	| Splines                        | Ch. 8
+9	|	T	|	7 Mar	| Additive Models                        | Ch. 9
 	|	R	|	9 Mar	|                                    | Midterm due
 	|	Spring break   
-10 |	T	|	21 Mar	| Additive models          | Ch. 9
+10 |	T	|	21 Mar	| Logistic Regression          | Ch. 11
 	|	R	|	23 Mar	|                                    | HW4 due, HW5 out
-11 |	T	|	28 Mar	|Specification testing    | Ch. 10
+11 |	T	|	28 Mar	| GLMs and GAMs    | Ch. 12
 	|	R	|	30 Mar	| 
-12 |	T	|	4 Apr	| Logistic Regression    | Ch. 11
+12 |	T	|	4 Apr	| Specification    | Ch. 10
 	|	R	|	6 Apr	|                                  | HW 5 due, HW 6 out
-13 |	T	|	11 Apr	| GLMs and GAMs         | Ch. 12
+13 |	T	|	11 Apr	| Regularization         | Reading(s) TBA
 	|	R	|	13 Apr	| 
 14 |	T	|	18 Apr	| Trees                          | Ch. 13
-	|	R	|	20 Mar	|                                   | HW 6 due, Project due, Final out
+	|	R	|	20 Apr	| Guest speaker??                                | HW 6 due, Project due, Final out
 15 |	T	|	25 Apr	| Extra topics 
 	|	R	|	27 Apr	| Project presentations| Final due
 
