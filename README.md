@@ -176,8 +176,8 @@ only considered cheating
 > Updated 27 Februrary to remove splines
 
 | Week # | Day of Week | Date | Topic | Action(s) |
-|:------:|------------:|:----:|:------|:----------|
- 1	 |	T  	|	10 Jan	| Intro, syllabus, github	| Read (Happy Git with R)[http://www.happygitwithr.com/]  
+|:------:|--------:|:----:|:-----------------------|:----------------------------------------------------------------|
+ 1	 |	T  	|	10 Jan	| Intro, syllabus, github	| Read (Happy Git with R)[http://www.happygitwithr.com/]
  	 |	R	|	12 Jan	| Github, wercker          	| HW1 out  
  2	 |	T	|	17 Jan	| Rmd, coding, review    	| Programming appendix  
   	 |	R	|	19 Jan	| Rmd, coding, review    	| 
