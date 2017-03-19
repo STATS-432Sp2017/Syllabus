@@ -177,9 +177,9 @@ only considered cheating
 
 | Week # | Day of Week | Date | Topic | Action(s) |
 |:------:|------------:|:----:|:------|:----------|
- 1	 |	T  	|	10 Jan	| Intro, syllabus, github	| Read (Happy Git with R)[http://www.happygitwithr.com/]
-	 |	R	|	12 Jan	| Github, wercker          	| HW1 out
- 2	 |	T	|	17 Jan	| Rmd, coding, review    	| Programming appendix
+ 1	 |	T  	|	10 Jan	| Intro, syllabus, github	| Read (Happy Git with R)[http://www.happygitwithr.com/]  
+	 |	R	|	12 Jan	| Github, wercker          	| HW1 out  
+ 2	 |	T	|	17 Jan	| Rmd, coding, review    	| Programming appendix  
  	 |	R	|	19 Jan	| Rmd, coding, review    	| 
  3 	|	T	|	24 Jan	| Regression and prob.   	| Ch1
 	|	R	|	26 Jan	|                               | HW1 due, HW2 out
