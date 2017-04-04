@@ -198,13 +198,13 @@ only considered cheating
 |	|	Spring break   
 |10 	|	T	|	21 Mar	| Logistic Regression          	| Ch. 11
 |	|	R	|	23 Mar	|                               | HW4 due, HW5 out
-|11 	|	T	|	28 Mar	| GLMs and GAMs  		| Ch. 12
+|11 	|	T	|	28 Mar	| Midterm and Project discussion  		| None
 |	|	R	|	30 Mar	| 
-|12 	|	T	|	4 Apr	| Specification    		| Ch. 10
+|12 	|	T	|	4 Apr	| GLMs and GAMs    		| Ch. 12
 |	|	R	|	6 Apr	|                               | HW 5 due, HW 6 out
-|13 	|	T	|	11 Apr	| Regularization         	| Reading(s) TBA
+|13 	|	T	|	11 Apr	| Coding and Plotting         	| Reading(s) TBA
 |	|	R	|	13 Apr	| 
-|14 	|	T	|	18 Apr	| Trees                         | Ch. 13
+|14 	|	T	|	18 Apr	| Extra topics                         | Readings(s) TBA
 |	|	R	|	20 Apr	| Guest speaker??               | HW 6 due, Project due, Final out
 |15 	|	T	|	25 Apr	| Extra topics 
 |	|	R	|	27 Apr	| Project presentations		| Final due
