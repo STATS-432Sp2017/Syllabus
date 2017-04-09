@@ -202,7 +202,7 @@ only considered cheating
 |	|	R	|	30 Mar	| 
 |12 	|	T	|	4 Apr	| GLMs and GAMs    		| Ch. 12
 |	|	R	|	6 Apr	|                               | HW 5 due, HW 6 out
-|13 	|	T	|	11 Apr	| Plotting         	| Chapter 3 in ![r4ds](http://r4ds.had.co.nz/data-visualisation.html)
+|13 	|	T	|	11 Apr	| Plotting         	| Chapter 3 in [r4ds](http://r4ds.had.co.nz/data-visualisation.html)
 |	|	R	|	13 Apr	| 
 |14 	|	T	|	18 Apr	| Extra topics                         | Readings(s) TBA
 |	|	R	|	20 Apr	| Guest speaker??               | HW 6 due, Project due, Final out
